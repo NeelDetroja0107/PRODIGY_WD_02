@@ -21,7 +21,7 @@ body {
   button {
     padding: 10px 20px;
     margin: 0 5px;
-    background-color:red;
+    background-color:rgb(0, 255, 13);
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -30,7 +30,7 @@ body {
   }
   
   button:hover {
-    background-color: green;
+    background-color: rgb(36, 0, 128);
   }
   
   .lap-list {
